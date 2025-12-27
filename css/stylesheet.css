@@ -225,15 +225,11 @@ nav a:link, nav a:visited {
     }
 
     .homepage .pagelink h1 {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 
     h1 {
         font-size: 3.3rem;
-    }
-
-    .contact header h1{
-        font-size: 3.5rem;
     }
 
 
