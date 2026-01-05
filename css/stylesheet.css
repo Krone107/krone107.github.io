@@ -240,6 +240,11 @@ nav a:link, nav a:visited {
         font-size: 3.3rem;
     }
 
+    .contact h3 {
+        font-size: 2rem;
+        font-weight: 300;
+    }
+
 
     /* NAVBAR STYLE */
 
